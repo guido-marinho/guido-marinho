@@ -1,3 +1,5 @@
+Meu nome é Guilherme Gatti Marinho, atualmente sou estudante de Desenvolvimento Web na Trybe.
+
 <br>
 
 <!-- GITHUB STATUS -->
