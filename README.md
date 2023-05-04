@@ -29,5 +29,5 @@
   
   ![](https://visitor-badge.glitch.me/badge?page_id=guilhermegattimarinho)
   
-    ![Snake animation](https://github.com/felipeamorim19/felipeamorim19/blob/output/github-contribution-grid-snake.svg)
+
 </div>
