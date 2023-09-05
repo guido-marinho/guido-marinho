@@ -32,7 +32,7 @@
   <img align="center" alt="github" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png">
   <img align="center" alt="linux" height="30" width="40" src="https://e7.pngegg.com/pngimages/983/141/png-clipart-docker-macos-installation-kubernetes-linux-command-linux.png">
   <img align="center" alt="linux" height="30" width="40" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mocha_plain_logo_icon_146426.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
