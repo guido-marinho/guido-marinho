@@ -27,7 +27,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://www.google.com/search?sca_esv=563414948&sxsrf=AB5stBhsGBZVq_-laV1ETafLo-8KkfN8jw:1694099415826&q=docker+icon&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiczZOP5JiBAxX-p5UCHW_dDvQQ0pQJegQIChAB&biw=1920&bih=883&dpr=1#imgrc=Oqks2u5y4sIbwM">
+  <img align="center" alt="Docker" height="30" width="40" src="https://e7.pngegg.com/pngimages/291/969/png-clipart-docker-ubuntu-lxc-minio-software-deployment-docker-container-linux-repository.png">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
    <img align="center" alt="mocha" height="30" width="40" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667">
