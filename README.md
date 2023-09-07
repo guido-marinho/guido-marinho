@@ -29,7 +29,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="express" height="30" width="30" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png">
+  <img align="center" alt="express" height="30" width="30" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
   <img align="center" alt="sequelize" height="30" width="30" src="https://www.svgrepo.com/show/354333/sequelize.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
    <img align="center" alt="mocha" height="30" width="40" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667">
