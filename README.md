@@ -10,8 +10,8 @@
     
   </h4>
 
-<div style="text-align: center;">
-  <p style="display: inline-block; text-align: center; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <p style="text-align: left;">
     - 👻 Sou casado, tenho uma gatinha e amo assistir um bom filme ou uma boa série;<br>
     - 🌱 Estou aprendendo como fazer API REST e escrever testes de integração nas minhas próprias API;<br>
     - 🤔 Meus hobbies são skate, jogos online e qualquer coisa que desperte minha curiosidade;<br>
