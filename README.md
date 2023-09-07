@@ -5,8 +5,19 @@
     <a href="https://www.linkedin.com/in/guilhermegattimarinho/">Gui Marinho 😃️</a>
   </h1>
   
-  <p align="center">
-    Sou estudante de Desenvolvimento Web na Trybe
+  <h4 align="center">
+    Vivo em Campinas-SP e atualmente sou estudante de Desenvolvimento Web na Trybe.
+    
+  </h4>
+
+   <p align="center">
+    - 👻 Sou casado, tenho uma gatinha e amo assistir um bom filme ou uma boa série;
+    - 🌱 Estou aprendendo como fazer API REST e escrever testes de integração nas minhas próprias **API**; 
+    - 🤔 Meus hobbies são skate, jogos online e qualquer coisa que disperte minha curiosidade;
+    - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+    - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+    - 📫 Por favor, envie um email para **ggattimarinho@gmail.com** para me encontrar.
+<!--     - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. -->
     
   </p>
   
