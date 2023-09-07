@@ -21,7 +21,6 @@
      <br>
     - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
      <br>
-    - 📫 Por favor, envie um email para **ggattimarinho@gmail.com** para me encontrar.
 <!--     - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. -->
     
   </p>
