@@ -12,6 +12,7 @@
 
    <p align="center">
     - 👻 Sou casado, tenho uma gatinha e amo assistir um bom filme ou uma boa série;
+     <br>
     - 🌱 Estou aprendendo como fazer API REST e escrever testes de integração nas minhas próprias **API**; 
     - 🤔 Meus hobbies são skate, jogos online e qualquer coisa que disperte minha curiosidade;
     - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
