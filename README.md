@@ -65,8 +65,9 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/felipeamorim19/felipeamorim19/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/guilhermegattimarinho/guilhermegattimarinho/blob/output/github-contribution-grid-snake.svg)
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilhermegattimarinho&repo=guilhermegattimarinho&theme=react)](https://github.com/guilhermegattimarinho/guilhermegattimarinho)
 </div>
 
 
