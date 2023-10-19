@@ -65,10 +65,9 @@
 
 <div align="center">
 
-  ![snake gif](https://github.com/guilhermegattimarinho/guilhermegattimarinho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  ![snake gif](https://github.com/guilhermegattimarinho/guilhermegattimarinho/blob/output/github-contribution-grid-snake.svg)
+  
   
