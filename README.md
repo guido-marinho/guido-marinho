@@ -65,9 +65,10 @@
 
 <div align="center">
 
+  ![Snake animation](https://github.com/felipeamorim19/felipeamorim19/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-  ![snake gif](https://github.com/guilhermegattimarinho/guilhermegattimarinho/blob/output/github-contribution-grid-snake.svg)
+
   
   
