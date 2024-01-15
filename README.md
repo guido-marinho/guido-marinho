@@ -29,9 +29,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/guimarinho-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermegattimarinho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegattimarinho&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/guido-marinho">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guido-marinho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guido-marinho&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
