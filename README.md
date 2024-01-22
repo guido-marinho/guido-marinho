@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Seja bem-vindx 😃️
+    Olá, tudo bem? Seja bem-vindx 😃️
   </h1>
   
   <h4 align="center">
@@ -29,10 +29,10 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/guido-marinho">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guido-marinho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guido-marinho&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guido-marinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guido-marinho&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <div align="center" valign="top"><br>
