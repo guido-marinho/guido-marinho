@@ -12,7 +12,7 @@
 <p align="center"  width="300">
      👻 Sou movido pela curiosidade, tenho uma gatinha linda e amo assistir um bom filme ou uma boa série;
      <br>
-     🌱 Estou aprendendo como fazer API REST e escrever testes de integração nas minhas próprias API; 
+     🌱 Estou estudando Ánalise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie; 
      <br>
      🤔 Meus hobbies são skate, jogos online e qualquer coisa que disperte minha curiosidade;
      <br>
