@@ -14,7 +14,7 @@
      <br>
      🌱 Estou estudando Ánalise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie; 
      <br>
-     🤔 Meus hobbies são skate, jogos online e qualquer coisa que disperte minha curiosidade;
+     🤔 Meus hobbies são: andar de skate, jogos online e qualquer coisa que disperte minha curiosidade;
      <br>
      💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
      <br>
