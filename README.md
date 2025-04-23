@@ -3,16 +3,9 @@
   <h1 align="center">
     Olá, tudo bem? Seja bem-vindx 😃️
   </h1>
-  
-  <h4 align="center">
-    Vivo em Campinas-SP e atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-    
-  </h4>
 
 <p align="center"  width="300">
-     👻 Sou movido pela curiosidade, tenho uma gatinha linda e amo assistir um bom filme ou uma boa série;
-     <br>
-     🌱 Estou estudando Ánalise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie; 
+     👻 Sou movido pela curiosidade, tenho duas gatinhas lindas e amo assistir um bom filme ou uma boa série;
      <br>
      🤔 Meus hobbies são: andar de skate, jogos online e qualquer coisa que disperte minha curiosidade;
      <br>
